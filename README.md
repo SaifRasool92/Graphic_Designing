@@ -43,3 +43,10 @@ This repository reflects my growth as a designer and serves as a reference for f
 ## Contact
 If you want to discuss a design, collaborate, or provide feedback, feel free to reach out through my GitHub profile.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3468f28b-aa64-4cdb-ae8e-4f10344a7583" alt="Graphic Design GIF" width="100%">
+</p>
+
+
+
